@@ -7,8 +7,8 @@
   * [Filosofia](#Filosofia)
   * [Economia política](#Economia-política)
  * Termos
-  - O que é esquerda
-  - O que é direita
+  - [O que é esquerda](#O-que-é-esquerda)
+  - [O que é direita](#O-que-é-direita)
 * [Sobre o Socialismo](#Sobre-O-Socialismo)
   * [O que é o Socialismo?](#o-que-é-o-socialismo)
   
@@ -47,6 +47,10 @@
      XXV - Marx - Capital Volume III
      XXVI - Lenin - Imperialismo, a fase mais avançada do capitalismo
      
+# O que é esquerda?
+
+# O que é direita?
+
 # Sobre o Socialismo
 
   ## O que é o socialismo?
