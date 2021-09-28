@@ -2,20 +2,20 @@
 
 * [Lista de Leitura](#Lista-de-Leitura-de-Marxismo-Leninismo)
 
- - [Introdução](#I - Introdução)
- - [Sobre o Método do Materialismo Histórico-Dialético](II-Sobre-o-Método-do-Materialismo-Histórico-Dialético)
- - [Sobre o Socialismo Científico](III_-_Sobre_o_Socialismo_Científico)
- - [Filosofia](IV_-_Filosofia)
- - [Economia política](V_-_Economia_política)
+ - [Introdução](#Introdução)
+ - [Sobre o Método do Materialismo Histórico-Dialético](Sobre-o-Método-do-Materialismo-Histórico-Dialético)
+ - [Sobre o Socialismo Científico](Sobre-o-Socialismo-Científico)
+ - [Filosofia](Filosofia)
+ - [Economia política](Economia-política)
 
 # Lista de Leitura de Marxismo-Leninismo
-* I - Introdução
+* Introdução
     - I - Lenin - As três fontes e as três partes componentes do marxismo 
     - II - Lenin - Karl Marx Esboço de uma Biografia 
     - III - Marx & Engels - Manifesto do Partido Comunista
- * II - Sobre o Método do Materialismo Histórico-Dialético
+ * Sobre o Método do Materialismo Histórico-Dialético
     - IV - Karl Marx - A Ideologia Alemã
- * III - Sobre o Socialismo Científico
+ * Sobre o Socialismo Científico
     - V - Engels - Socialismo: utópico e científico 
     - VI - Lenin - Que fazer?
     - VII - Lenin - Estado e Revolução
@@ -31,11 +31,11 @@
     - XVII - Engels - Anti-Dühring
     - XVIII - Stalin - Os fundamentos do leninismo
 
- * IV - Filosofia
+ * Filosofia
     - XIX - Engels - Ludwig Feuerbach e o Fim da Filosofia Clássica Alemã
     - XX - Marx - Teses Sobre Feuerbach
     - XXI - Mao - Sobre a Contradição
- * V - Economia política
+ * Economia política
     - XXII - Marx - Salário, Preço e Lucro
     - XXIII - Marx - Capital Volume I
     - XXIV - Marx - Capital Volume II
