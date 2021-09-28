@@ -10,9 +10,9 @@
  * Termos
    * [O que é esquerda?](#o-que-é-esquerda)
    * [O que é direita?](#o-que-é-direita)
-   * [O que é o Capitalismo?](#o-que-é-capitalismo)
-   * [O que é o Socialismo?](#o-que-é--socialismo)
-   * [O que é o Comunismo?](#o-que-é-comunismo)
+   * [O que é Capitalismo?](#o-que-é-capitalismo)
+   * [O que é Socialismo?](#o-que-é-socialismo)
+   * [O que é Comunismo?](#o-que-é-comunismo)
   
 # Lista de Leitura de Marxismo-Leninismo
 [Drive com todos os livros citados](https://drive.google.com/drive/u/3/folders/1SHMSxLaS4_ddJQbIO-f7gxZphqber2BM). Créditos aos camaradas da Ágora. :)
