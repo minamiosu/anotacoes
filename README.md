@@ -1,5 +1,7 @@
 # anotacoes
 
+* [Lista de Leitura](#Lista-de-Leitura-de-Marxismo-Leninismo)
+
 # Lista de Leitura de Marxismo-Leninismo
 * I - Introdução
     - I - Lenin - As três fontes e as três partes componentes do marxismo 
