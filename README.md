@@ -7,6 +7,7 @@
   * [Filosofia](#Filosofia)
   * [Economia política](#Economia-política)
 * [Sobre o Socialismo](#Sobre-O-Socialismo)
+  * O que é o Socialismo?(#O-que-é-o-Socialismo-?)
 
 # Lista de Leitura de Marxismo-Leninismo
 [Drive com todos os livros citados](https://drive.google.com/drive/u/3/folders/1SHMSxLaS4_ddJQbIO-f7gxZphqber2BM). Créditos aos camaradas da Ágora. :)
