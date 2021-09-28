@@ -1,4 +1,4 @@
-# anotacoes
+# Anotações
 
 * [Lista de Leitura](#Lista-de-Leitura-de-Marxismo-Leninismo)
  * [Introdução](#Introdução)
