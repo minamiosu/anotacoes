@@ -6,6 +6,7 @@
   * [Sobre o Socialismo Científico](#Sobre-o-Socialismo-Científico)
   * [Filosofia](#Filosofia)
   * [Economia política](#Economia-política)
+* Sobre o Socialismo
 
 # Lista de Leitura de Marxismo-Leninismo
 [Drive com todos os livros citados](https://drive.google.com/drive/u/3/folders/1SHMSxLaS4_ddJQbIO-f7gxZphqber2BM). Créditos aos camaradas da Ágora. :)
@@ -41,3 +42,7 @@
      XXIV - Marx - Capital Volume II
      XXV - Marx - Capital Volume III
      XXVI - Lenin - Imperialismo, a fase mais avançada do capitalismo
+     
+# Sobre o Socialismo
+
+ * O que é o socialismo?
