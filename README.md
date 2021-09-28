@@ -6,6 +6,9 @@
   * [Sobre o Socialismo Científico](#Sobre-o-Socialismo-Científico)
   * [Filosofia](#Filosofia)
   * [Economia política](#Economia-política)
+# Termos
+  * O que é esquerda
+  * O que é direita
 * [Sobre o Socialismo](#Sobre-O-Socialismo)
   * [O que é o Socialismo?](#o-que-é-o-socialismo)
   
