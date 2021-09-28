@@ -1,4 +1,4 @@
 # anotacoes
 
-# Leitura Indrodutória
+# Lista de Leitura
 * [I - Introdução](#Introducao)
