@@ -46,4 +46,4 @@
      
 # Sobre o Socialismo
 
-  * O que é o socialismo?
+  ## O que é o socialismo?
