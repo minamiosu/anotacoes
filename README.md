@@ -9,6 +9,7 @@
  - [Economia política](#Economia-política)
 
 # Lista de Leitura de Marxismo-Leninismo
+[Drive com todos os livros citados](https://drive.google.com/drive/u/3/folders/1SHMSxLaS4_ddJQbIO-f7gxZphqber2BM) Créditos aos camaradas da Ágora. :)
 * Introdução
     - I - Lenin - As três fontes e as três partes componentes do marxismo 
     - II - Lenin - Karl Marx Esboço de uma Biografia 
