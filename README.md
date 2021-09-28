@@ -1,11 +1,11 @@
 # anotacoes
 
 * [Lista de Leitura](#Lista-de-Leitura-de-Marxismo-Leninismo)
- - [Introdução](#Introdução)
- - [Sobre o Método do Materialismo Histórico-Dialético](#Sobre-o-Método-do-Materialismo-Histórico-Dialético)
- - [Sobre o Socialismo Científico](#Sobre-o-Socialismo-Científico)
- - [Filosofia](#Filosofia)
- - [Economia política](#Economia-política)
+ * [Introdução](#Introdução)
+ * [Sobre o Método do Materialismo Histórico-Dialético](#Sobre-o-Método-do-Materialismo-Histórico-Dialético)
+ * [Sobre o Socialismo Científico](#Sobre-o-Socialismo-Científico)
+ * [Filosofia](#Filosofia)
+ * [Economia política](#Economia-política)
 
 # Lista de Leitura de Marxismo-Leninismo
 [Drive com todos os livros citados](https://drive.google.com/drive/u/3/folders/1SHMSxLaS4_ddJQbIO-f7gxZphqber2BM). Créditos aos camaradas da Ágora. :)
