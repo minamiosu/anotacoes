@@ -10,7 +10,7 @@
  * Termos
    * [O que é esquerda?](#O-que-é-esquerda)
    * [O que é direita?](#O-que-é-direita)
-   * [O que é o Capitalismo?](o-que-é-capitalismo)
+   * [O que é o Capitalismo?](O-que-é-Capitalismo)
    * [O que é o Socialismo?](#o-que-é-o-socialismo)
    * [O que é o Comunismo?](o-que-é-comunismo)
   
