@@ -7,7 +7,7 @@
   * [Filosofia](#Filosofia)
   * [Economia política](#Economia-política)
 
- * Termos
+ * [Termos](#termos)
    * [O que é Esquerda?](#o-que-é-esquerda)
    * [O que é Direita?](#o-que-é-direita)
    * [O que é Capitalismo?](#o-que-é-capitalismo)
@@ -48,7 +48,8 @@
      XXIV - Marx - Capital Volume II
      XXV - Marx - Capital Volume III
      XXVI - Lenin - Imperialismo, a fase mais avançada do capitalismo
-     
+ #Termos
+ 
 ## O que é Esquerda?
 
 
@@ -56,6 +57,8 @@
 ## O que é Direita?
 
 ## O que é Capitalismo?
+
+O sistema capitalista - ou o modo de produção capitalista, é caracterizado pela propriedade privada dos meios de produção, a análise marxista envolvida por Marx e por Engels que é o materialismo histórico dialético foca muito no desenvolvimento dos meios de produção ao longo da história, os meios de produção englobam tudo que é necessário para produzir as coisas que são fundamentais, que são essenciais para a sobrevivencia de uma sociedade, de uma população. Tendo isso em mente, meios de produção, são, por exemplo: Grandes terras, grandes fazendas, grandes fábricas, as grandes industrias, onde é produzido o que é necessario para a sobrevivência de uma sociedade. Quando falamos sobre grandes propriedades, não nos referimos ao mercadinho da esquina, a barraca de cachorro-quente, a barraca de sorvete, isso não é meio de produção. Casa, carro, celular, roupas, e qualquer outro bem pessoal não é meio de produção. As pessoas que são donas, as proprietarias dos meios de produção formam uma classe que é a classe dos burgueses, a burguesia ou também os capitalistas. Essa classe, por controlar os meios de produção, é a classe economicamente dominante da sociedade, porque eles decidem sobre o rumo da produção, eles que decidem o que vai ser produzido, e para onde vai o que é produzido. Esse método de produção não vai para suprir as necessidades da população, ele vai ser vendido e gerar lucro para os donos dos meios de produção. Além disso, essa classe economicamente dominante também é a classe policamente dominante, mas por quê? porque as pessoas mais ricas tem um poder político e uma influência social muito maior do que os pobres. A grande maioria dos politicos juízes e ministros são ricos, eles já vem dessa classe de burgueses, então eles estão lá pra representar a classe deles,  entretanto - mesmo se eles não quiserem representar essa classe, essas pessoas mais ricas, por terem muito poder, elas vão influênciar nas decisões dessas pessoas, elas vão comprar, vão ameaçar, e por ai vai... Então, eles tem todo esse poder político. O próprio estado em si, é um orgão de dominação e de opressão política de uma classe sobre outra, todos os estados tem essa função. Eu falo "todos os estados" porque existe diferentes tipos de estados; o estado é um órgão de dominação, de opressão de uma classe sobre outra, então se muda essa classe dominante o tipo de estado também muda. Atualmente, vivemos em um estado burguês, porque a burguesia é a classe dominante, mas antes do estado burguês, existia o estado monárquico, a frança por exemplo, onde aconteceu a revolução francesa, existia uma monarquia absolutista onde a classe dominante era os nobres, os reis, a monarquia, onde tinha poder absoluto, e as classes dominadas eram os camponeses, e até mesmo a burguesia, que não era a classe dominante ainda. Então, a nobresa e os monarcas usavam o estado para beneficios próprios e para oprimir e dominar as outras classes. O que eu quero dizer é que existe diferentes tipos de estado que varia conforme a classe que domina ele. Recapitulando: O capitalismo é o sistema economico social e político em que nós vivemos atualmente, nele a sociedade é dividida em classes e os burgueses controlam os meios de produção, ou seja, eles controlam as grandes empresas, grandes industrias, grandes terras, grandes fábricas, controlam também o estado, e a classe trabalhadora não controla nada, no máximo, os trabalhadores tem pequenas propriedades como carros, casas, pequenas empresas, uma pequena propriedade de terra, mas isso não faz de você um capitalista, você continua sendo um trabalhador que precisa vender a sua força de trabalho pros burgueses, para os donos dos meios de produção para sobreviver. Mesmo partindo do ponto de vista que você tem seu próprio negócio, tem sua própria lojinha, mesmo assim você não é um burguês, você continua sendo um trabalhador e com muito menos garantia de que vai ter dinheiro pra pagar suas contas no final do mês.
 
 ## O que é Socialismo?
 
