@@ -3,10 +3,10 @@
 * [Lista de Leitura](#Lista-de-Leitura-de-Marxismo-Leninismo)
 
  - [Introdução](#Introdução)
- - [Sobre o Método do Materialismo Histórico-Dialético](Sobre-o-Método-do-Materialismo-Histórico-Dialético)
- - [Sobre o Socialismo Científico](Sobre-o-Socialismo-Científico)
- - [Filosofia](Filosofia)
- - [Economia política](Economia-política)
+ - [Sobre o Método do Materialismo Histórico-Dialético](#Sobre-o-Método-do-Materialismo-Histórico-Dialético)
+ - [Sobre o Socialismo Científico](#Sobre-o-Socialismo-Científico)
+ - [Filosofia](#Filosofia)
+ - [Economia política](#Economia-política)
 
 # Lista de Leitura de Marxismo-Leninismo
 * Introdução
