@@ -8,8 +8,8 @@
   * [Economia política](#Economia-política)
 
  * Termos
-   * [O que é esquerda?](#o-que-é-esquerda)
-   * [O que é direita?](#o-que-é-direita)
+   * [O que é Esquerda?](#o-que-é-esquerda)
+   * [O que é Direita?](#o-que-é-direita)
    * [O que é Capitalismo?](#o-que-é-capitalismo)
    * [O que é Socialismo?](#o-que-é-socialismo)
    * [O que é Comunismo?](#o-que-é-comunismo)
