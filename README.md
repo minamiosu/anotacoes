@@ -6,7 +6,7 @@
   * [Sobre o Socialismo Científico](#Sobre-o-Socialismo-Científico)
   * [Filosofia](#Filosofia)
   * [Economia política](#Economia-política)
-* [Sobre o Socialismo](#Sobre-O-Socialismo)
+# [Sobre o Socialismo](#Sobre-O-Socialismo)
   * [O que é o Socialismo?](#O-que-é-o-socialismo?)
 
 # Lista de Leitura de Marxismo-Leninismo
