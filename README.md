@@ -9,13 +9,13 @@
 
 # Lista de Leitura de Marxismo-Leninismo
 [Drive com todos os livros citados](https://drive.google.com/drive/u/3/folders/1SHMSxLaS4_ddJQbIO-f7gxZphqber2BM). Créditos aos camaradas da Ágora. :)
-## Introdução
+# Introdução
     - I - Lenin - As três fontes e as três partes componentes do marxismo 
     - II - Lenin - Karl Marx Esboço de uma Biografia 
     - III - Marx & Engels - Manifesto do Partido Comunista
- ## Sobre o Método do Materialismo Histórico-Dialético
+ # Sobre o Método do Materialismo Histórico-Dialético
     - IV - Karl Marx - A Ideologia Alemã
- ## Sobre o Socialismo Científico
+ # Sobre o Socialismo Científico
     - V - Engels - Socialismo: utópico e científico 
     - VI - Lenin - Que fazer?
     - VII - Lenin - Estado e Revolução
@@ -31,11 +31,11 @@
     - XVII - Engels - Anti-Dühring
     - XVIII - Stalin - Os fundamentos do leninismo
 
- ## Filosofia
+ # Filosofia
     - XIX - Engels - Ludwig Feuerbach e o Fim da Filosofia Clássica Alemã
     - XX - Marx - Teses Sobre Feuerbach
     - XXI - Mao - Sobre a Contradição
- ## Economia política
+ # Economia política
     - XXII - Marx - Salário, Preço e Lucro
     - XXIII - Marx - Capital Volume I
     - XXIV - Marx - Capital Volume II
