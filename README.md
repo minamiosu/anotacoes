@@ -1,6 +1,11 @@
 # anotacoes
 
 * [Lista de Leitura](#Lista-de-Leitura-de-Marxismo-Leninismo)
+ - [Introdução](#I_-_Introdução)
+ - [Sobre o Método do Materialismo Histórico-Dialético](II_-_Sobre_o_Método_do_Materialismo_Histórico-Dialético)
+ - [Sobre o Socialismo Científico](III_-_Sobre_o_Socialismo_Científico)
+ - [Filosofia](IV_-_Filosofia)
+ - [Economia política](V_-_Economia_política)
 
 # Lista de Leitura de Marxismo-Leninismo
 * I - Introdução
