@@ -8,8 +8,8 @@
   * [Economia política](#Economia-política)
 
  * Termos
-   * [O que é esquerda](#O-que-é-esquerda)
-   * [O que é direita](#O-que-é-direita)
+   * [O que é esquerda?](#O-que-é-esquerda)
+   * [O que é direita?](#O-que-é-direita)
    * [O que é o Capitalismo?](o-que-é-capitalismo)
    * [O que é o Socialismo?](#o-que-é-o-socialismo)
    * [O que é o Comunismo?](o-que-é-comunismo)
@@ -50,6 +50,8 @@
      XXVI - Lenin - Imperialismo, a fase mais avançada do capitalismo
      
 ## O que é Esquerda?
+
+
 
 ## O que é Direita?
 
