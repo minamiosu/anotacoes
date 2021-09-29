@@ -48,7 +48,7 @@
      XXIV - Marx - Capital Volume II
      XXV - Marx - Capital Volume III
      XXVI - Lenin - Imperialismo, a fase mais avançada do capitalismo
- #Termos
+ # Termos
  
 ## O que é Esquerda?
 
