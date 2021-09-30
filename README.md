@@ -8,9 +8,15 @@
   * [Economia política](#Economia-política)
 
  * [Termos](#termos)
-   * [Direita e Esquerda, como surgiu e quais são as diferenças](#direita-e-esquerda-como-surgiu-e-quais-são-as-diferenças)
+   * [Direita e Esquerda, como surgiu e quais são as diferenças](#esquerda-e-direita-como-surgiu-e-quais-são-as-diferenças)
      * [Tipos de Direita](#tipos-de-direita)
+       * Extrema Direita
+       * Direita Liberal
+        
      * [Tipos de Esquerda](#tipos-de-esquerda)
+       * Centro Esquerda
+       * Esquerda Radical
+       * Extrema Esquerda
    * [O que é Capitalismo?](#o-que-é-capitalismo)
    * [O que é Socialismo?](#o-que-é-socialismo)
    * [O que é Comunismo?](#o-que-é-comunismo)
@@ -51,7 +57,7 @@
      XXVI - Lenin - Imperialismo, a fase mais avançada do capitalismo
  # Termos
  
-## Direita e Esquerda, como surgiu e quais são as diferenças
+## Esquerda e direita, como surgiu e quais são as diferenças
 
 No século XVII, um pouco antes da revolução francesa, já tinha ideias do que era direita e o que era esquerda, essas ideias surgiram a partir de debates que estava tendo entre dois filosófos (Edmund Burke e Thomas Paine), que estavam passando por um momento de crise social e política muito grande, onde a burguesia e os camponeses estavam se revoltando contra a nobreza e estavam prestes a derrubar o sistema feudal. Esses dois intelectuais começaram a refletir sobre quais rumos seriam melhores a ser tomados, o Paine defendia a revolução, defendia uma revolução total da monarquia e a construção de um novo sistema, de uma nova sociedade mais livre e mais justa, já o Burke não concordava com isso, Burke é considerado o pai do conservadorismo porque as ideias dele eram de conservar o sistema, de conservar as constituições, ele também defendia mudanças, defendia melhorias na sociedade, só que de uma forma mais lenta, através de reformas, não de uma revolução. É mais ou menos dai que surge a ideia que ficou meio popular de que a esquerda é um campo progressista e radical que quer "destruir a família, a sociedade, as tradições" e de que a direita é um campo conservador, preconceituoso e que quer manter tudo do jeito que é, essa visão não é necessariamente certa e essa divisão de esquerda e direita, entre progressistas e conservadores é limitada e é errada também. 
 
@@ -65,11 +71,21 @@ Eu queria deixar claro também que não existe centro na política, NÃO existe 
 
 É por isso que se você não estuda política, não debate política, não questiona, não reflete, você é uma pessoa de direita. Porque você vai estar reproduzindo o senso comum, você não questiona o senso comum? O que te é ensinando? Você reproduz o senso comum, e como eu acabei de mostrar o senso comum ele é formado por tudo isso que é vendido pela grande mídia, pelas religiões, pela televisão, pelas escolas também. 
 
+Partindo do centro para a esquerda, temos a centro-esquerda, a esquerda radical e a extrema-esquerda, que são coisas diferentes. 
+Do centro para a direita, nós temos a centro-direita, a direita liberal e a extrema-direita. 
+Quais desses campos você se encaixa? É muito importante saber o que cada um desses campos defende para você saber qual é o projeto de sociedade que você tá defendendo e para você não se enganar com falsos aliados. 
+
+No Brasil, os partidos políticos tem nomes muito diferentes do programa que eles defendem, por exemplo: O PCdoB (Partido Comunista do Brasil) não tem um programa comunista (NÃO confunda com o PCB - Partido Comunistra Brasileiro.) o PP (Partido Progressista) não tem um programa progressista, e o PSDB (Partido da Social Democracia Brasileira) não tem um programa social democrata.  
+
 Agora, no próximo tópico, irei abordar sobre o que cada campo defende.
 
-## Tipos de Direita
-
 ## Tipos de Esquerda
+
+## Tipos de Direita
+ ** Extrema Direita
+ 
+
+Partindo do centro para a esquerda, temos a centro-esquerda, a esquerda radical e a extrema-esquerda, 
 
 ## O que é Capitalismo?
 
