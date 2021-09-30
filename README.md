@@ -8,7 +8,7 @@
   * [Economia política](#Economia-política)
 
  * [Termos](#termos)
-   * [Direita e Esquerda, como surgiu?](#direita-e-esquerda-como-surgiu)
+   * [Direita e Esquerda, como surgiu e quais são as diferenças](#direita-e-esquerda-como-surgiu-e-quais-são-as-diferenças)
      * [Tipos de Direita](#tipos-de-direita)
      * [Tipos de Esquerda](#tipos-de-esquerda)
    * [O que é Capitalismo?](#o-que-é-capitalismo)
