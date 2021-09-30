@@ -9,14 +9,15 @@
 
  * [Termos](#termos)
    * [Esquerda e Direita, como surgiu e quais são as diferenças](#esquerda-e-direita-como-surgiu-e-quais-são-as-diferenças)
-     * [Tipos de Direita](#tipos-de-direita)
-       * Extrema Direita
-       * Direita Liberal
-        
      * [Tipos de Esquerda](#tipos-de-esquerda)
        * Centro Esquerda
        * Esquerda Radical
        * Extrema Esquerda
+     
+     * [Tipos de Direita](#tipos-de-direita)
+       * Extrema Direita
+       * Direita Liberal
+      
    * [O que é Capitalismo?](#o-que-é-capitalismo)
    * [O que é Socialismo?](#o-que-é-socialismo)
    * [O que é Comunismo?](#o-que-é-comunismo)
@@ -79,12 +80,14 @@ No Brasil, os partidos políticos tem nomes muito diferentes do programa que ele
 
 Agora, no próximo tópico, irei abordar sobre o que cada campo defende.
 
-## Tipos de Esquerda
- ## Esquerda 
+# Tipos de Esquerda
+ ## Centro Esquerda
+ ## Esquerda Radical
+ ## Extrema Esquerda
 
-
-## Tipos de Direita
+# Tipos de Direita
  ## Extrema Direita
+ ## Direita Liberal
  
 
 Partindo do centro para a esquerda, temos a centro-esquerda, a esquerda radical e a extrema-esquerda, 
