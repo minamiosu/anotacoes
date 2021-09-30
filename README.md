@@ -50,6 +50,8 @@
      XXVI - Lenin - Imperialismo, a fase mais avançada do capitalismo
  # Termos
  
+Lembrando que as definições citadas aqui foi resumida de uma forma simples onde todos possam entender, se quiser se aprofundar mais nos assuntos, é necessário fazer a leitura dos livros que já citei.
+ 
 ## O que é Esquerda?
 
 
