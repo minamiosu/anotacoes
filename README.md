@@ -8,8 +8,9 @@
   * [Economia política](#Economia-política)
 
  * [Termos](#termos)
-   * [O que é Esquerda?](#o-que-é-esquerda)
-   * [O que é Direita?](#o-que-é-direita)
+   * Direita e Esquerda, como surgiu?
+     * [Tipos de Direita](#tipos-de-direita)
+     * [Tipos de Esquerda](#tipos-de-esquerda)
    * [O que é Capitalismo?](#o-que-é-capitalismo)
    * [O que é Socialismo?](#o-que-é-socialismo)
    * [O que é Comunismo?](#o-que-é-comunismo)
@@ -50,13 +51,11 @@
      XXVI - Lenin - Imperialismo, a fase mais avançada do capitalismo
  # Termos
  
-Lembrando que as definições citadas aqui foram resumidas de uma forma simples onde todos possam entender, se quiser se aprofundar mais nos assuntos, é necessário fazer a leitura dos livros que já citei.
- 
-## O que é Esquerda?
+## Direita e Esquerda, como surgiu?
 
+## Tipos de Direita
 
-
-## O que é Direita?
+## Tipos de Esquerda
 
 ## O que é Capitalismo?
 
