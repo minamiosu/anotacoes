@@ -8,7 +8,7 @@
   * [Economia política](#Economia-política)
 
  * [Termos](#termos)
-   * [Direita e Esquerda, como surgiu e quais são as diferenças](#esquerda-e-direita-como-surgiu-e-quais-são-as-diferenças)
+   * [Esquerda e Direita, como surgiu e quais são as diferenças](#esquerda-e-direita-como-surgiu-e-quais-são-as-diferenças)
      * [Tipos de Direita](#tipos-de-direita)
        * Extrema Direita
        * Direita Liberal
@@ -80,9 +80,11 @@ No Brasil, os partidos políticos tem nomes muito diferentes do programa que ele
 Agora, no próximo tópico, irei abordar sobre o que cada campo defende.
 
 ## Tipos de Esquerda
+ ## Esquerda 
+
 
 ## Tipos de Direita
- ** Extrema Direita
+ ## Extrema Direita
  
 
 Partindo do centro para a esquerda, temos a centro-esquerda, a esquerda radical e a extrema-esquerda, 
