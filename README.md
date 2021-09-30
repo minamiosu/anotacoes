@@ -15,8 +15,8 @@
        * [Extrema Esquerda](#extrema-esquerda)
      
      * [Tipos de Direita](#tipos-de-direita)
-       * [Extrema Direita](#extrema-direita)
        * [Direita Liberal](#direita-liberal)
+       * [Extrema Direital](#extrema-direita)
       
    * [O que é Capitalismo?](#o-que-é-capitalismo)
    * [O que é Socialismo?](#o-que-é-socialismo)
@@ -86,8 +86,8 @@ Agora, no próximo tópico, irei abordar sobre o que cada campo defende.
  ## Extrema Esquerda
 
 # Tipos de Direita
- ## Extrema Direita
  ## Direita Liberal
+ ## Extrema Direita
  
 
 Partindo do centro para a esquerda, temos a centro-esquerda, a esquerda radical e a extrema-esquerda, 
