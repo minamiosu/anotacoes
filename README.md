@@ -15,6 +15,7 @@
        * [Extrema Esquerda](#extrema-esquerda)
      
      * [Tipos de Direita](#tipos-de-direita)
+       * [Centro Direita](#centro-direita)
        * [Direita Liberal](#direita-liberal)
        * [Extrema Direital](#extrema-direita)
       
@@ -86,6 +87,11 @@ Agora, no próximo tópico, irei abordar sobre o que cada campo defende.
  ## Extrema Esquerda
 
 # Tipos de Direita
+ ## Centro Direita
+  A centro direita, é uma versão mais suave da direita liberal, é aqui na centro direita que estão as pessoas que falam que são de centro, que são neutras. É aqui na centro direita que ficam as pessoas que não são contras o sistema capitalista, mas que pode variar o posicionamento delas dependendo da conjultura política, dependendo do momento político, o famoso "centrão". Essas pessoas não tem um projeto de sociedade bem definido, elas podem tanto se aliar com a centro-direita, tanto com direita, dependendo do que for mais vantajoso para elas, mas se elas tiverem que escolher entre defender os interesses da burguesia e defender os interesses dos trabalhadores, é mais provável que elas defendam os interesses da burguesia. 
+  
+  Quando essa centro direita tem um projeto político de sociedade, acreditam que o sistema capitalista precisa ser melhorado pelo estado atráves de reformas e que a vida dos trabalhadores também precisa melhorar um pouco. Eles defendem também essa concessão de direito para os trabalhadores como o bolsa família por exemplo. 
+  
  ## Direita Liberal
    A direita liberal é uma versão mais pé no chão da extrema direita, enquanto a extrema direita usa violência,  autoritarismo abertamente constantemente, se recusa a fazer alianças com outros campos políticos e governa só para a burguesia, a direita liberal é mais moderada, ela faz menos uso da violência ou pelo menos quando ela usa ela tenta justificar de algum jeito, ela faz aliança com outros campos políticos e inclusive com a centro-esquerda, e muitas vezes ela pode dar alguns direitos aos trabalhadores e os grupos oprimidos da sociedade. 
    
