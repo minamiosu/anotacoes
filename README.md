@@ -10,13 +10,13 @@
  * [Termos](#termos)
    * [Esquerda e Direita, como surgiu e quais são as diferenças](#esquerda-e-direita-como-surgiu-e-quais-são-as-diferenças)
      * [Tipos de Esquerda](#tipos-de-esquerda)
-       * Centro Esquerda
-       * Esquerda Radical
-       * Extrema Esquerda
+       * [Centro Esquerda](#centro-esquerda)
+       * [Esquerda Radical](#esquerda-radical)
+       * [Extrema Esquerda](#extrema-esquerda)
      
      * [Tipos de Direita](#tipos-de-direita)
-       * Extrema Direita
-       * Direita Liberal
+       * [Extrema Direita](#extrema-direita)
+       * [Direita Liberal](#direita-liberal)
       
    * [O que é Capitalismo?](#o-que-é-capitalismo)
    * [O que é Socialismo?](#o-que-é-socialismo)
