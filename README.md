@@ -24,7 +24,9 @@
    * [O que é Comunismo?](#o-que-é-comunismo)
 
  * Outros tópicos
-  
+   * O capitalismo não funciona
+   * O socialismo não funciona?
+ 
 # Lista de Leitura de Marxismo-Leninismo
 [Drive com todos os livros citados](https://drive.google.com/drive/u/3/folders/1SHMSxLaS4_ddJQbIO-f7gxZphqber2BM). Créditos aos camaradas da Ágora. :)
 # Introdução
@@ -142,3 +144,10 @@ No comunismo não vai existir mais classes sociais, todas as pessoas vão trabal
 Sei que a ideia de comunismo parece utópico, que parece muito sonhador, a questão é que esse pensamento, essa ideia que é uma utopia, é uma ideologia capitalista, ideologia neoliberal chamada realismo capitalista que tenta matar a imaginação de um futuro diferente, "é mais fácil imaginar o fim do mundo do que o fim do capitalismo", é colocado na nossas cabeças o tempo inteiro de que não existem alternativas, se contentem com esse sistema que "sempre existiu" e sempre vai existir, e vocês não podem fazer nada, só aceitar a exploração. Não vai existir planeta enquanto o sistema capitalista existir, o capitalismo está destruindo o planeta, está destruindo a natureza. Independente de você achar utópico ou não superar o capitalismo, se você quiser que o planeta terra continue existindo e que a humanidade continue existindo, a gente tem que parar esse sistema. 
 
 Como eu falei: Revolução não faz milagre, o socialismo não é perfeito, não existe um molde perfeito para ele, ele vai variar, mas o fato é: Esse modo de produção onde os meios de produção são propriedade privada de poucas pessoas que tacam o foda-se para a maioria da população, que tacam o foda-se para o meio ambiente, é insustentável, é autodestrutivo, não tem como isso continuar existindo. A revolução é necessária, é preciso ter a construção de uma sociedade socialista, e, futuramente, uma sociedade comunista. Tenho certeza que a maioria das pessoas adorariam viver em um mundo mais igualitário, melhor para todo mundo, mas só ficar pensando, idealizando, sonhando com isso não é o suficiente, é preciso por a mão na massa, é preciso construir essa sociedade.
+
+
+# Outros Tópicos
+
+ ## O capitalismo não funciona
+
+ ## O socialismo não funciona?
