@@ -23,9 +23,9 @@
    * [O que é Socialismo?](#o-que-é-socialismo)
    * [O que é Comunismo?](#o-que-é-comunismo)
 
- * Outros tópicos
-   * O capitalismo não funciona
-   * O socialismo não funciona?
+ * [Outros tópicos](#outros-tópicos)
+   * [O capitalismo não funciona](#o-capitalismo-não-funciona)
+   * [O socialismo não funciona?](#o-socialismo-não-funciona)
  
 # Lista de Leitura de Marxismo-Leninismo
 [Drive com todos os livros citados](https://drive.google.com/drive/u/3/folders/1SHMSxLaS4_ddJQbIO-f7gxZphqber2BM). Créditos aos camaradas da Ágora. :)
