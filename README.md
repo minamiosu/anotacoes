@@ -7,7 +7,7 @@
   * [Filosofia](#Filosofia)
   * [Economia política](#Economia-política)
 
- * [Termos](#termos)
+* [Termos](#termos)
    * [Esquerda e Direita, como surgiu e quais são as diferenças](#esquerda-e-direita-como-surgiu-e-quais-são-as-diferenças)
      * [Tipos de Esquerda](#tipos-de-esquerda)
        * [Centro Esquerda](#centro-esquerda)
@@ -22,6 +22,8 @@
    * [O que é Capitalismo?](#o-que-é-capitalismo)
    * [O que é Socialismo?](#o-que-é-socialismo)
    * [O que é Comunismo?](#o-que-é-comunismo)
+
+ * Mitos anti-comunistas
   
 # Lista de Leitura de Marxismo-Leninismo
 [Drive com todos os livros citados](https://drive.google.com/drive/u/3/folders/1SHMSxLaS4_ddJQbIO-f7gxZphqber2BM). Créditos aos camaradas da Ágora. :)
