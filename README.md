@@ -23,6 +23,10 @@
    * [O que é Socialismo?](#o-que-é-socialismo)
    * [O que é Comunismo?](#o-que-é-comunismo)
 
+ * [Experiências socialistas](#experiencias-socialistas)
+   * [União Soviética](#a-uniao-sovietica)
+   
+
  * [Outros tópicos](#outros-tópicos)
    * [O capitalismo não funciona](#o-capitalismo-não-funciona)
    * [O socialismo não funciona?](#o-socialismo-não-funciona)
@@ -172,3 +176,7 @@ A expectativa de vida nos Estados Unidos atingiu o pico em 2014, porém está em
 Qual a sua conclusão? A minha é que isso não funciona, é puro elitismo, é ganancioso e colapsa dando o prejuízo maior ao trabalhador do que ao empresário. A hegemonia capitalista causou um curto-circuito nas pessoas para que comprassem propaganda absurdamente ilógica e ridícula.
 
  ## O socialismo não funciona?
+
+# Experiências Socialistas
+
+## A União Soviética
