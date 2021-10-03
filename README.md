@@ -190,3 +190,25 @@ Irei construir esse tópico em três partes. A primeira é uma discussão sobre 
 Em 1917, quando ocorreu a conhecida revolução russa, a Rússia era uma sociedade feudal extremamente atrasada e semicapitalista. O sistema feudal havia sido abolido recentemente e substituído pela forma mais brutal e primitiva do capitalismo. A nação estava terrivelmente subdesenvolvida, sem sinais de melhoras para o futuro. Não só isso, mas o pequeno crescimento que ocorreu levou à grandes desigualdades. De acordo com o professor [Robert Allen](https://nyuad.nyu.edu/en/academics/divisions/social-science/faculty/robert-allen.html)(ex-Oxford University, agora na NYU):
 
 >Não apenas as bases do avanço imperial eram estreitas, mas o processo de crescimento deu origem a mudanças tão desiguais na distribuição de renda que a revolução dificilmente foi uma surpresa. Os salários reais dos trabalhadores urbanos eram estáticos no final do período imperial, apesar de um aumento significativo na produção por trabalhador... A revolução também foi uma revolta camponesa, e os interesses dos camponeses eram diferentes... Como nas cidades, não houve ganho em salários reais.
+
+[Simon Clarke](https://homepages.warwick.ac.uk/~syrbe/), Professor Emérito de Sociologia da Universidade de Warwick, apóia estas afirmações:
+
+>A agricultura havia atingido os níveis de produtividade da América do Norte em 1913 e os preços do trigo despencaram depois de 1914. A expansão das ferrovias havia terminado seu curso e não havia perspectiva de que a indústria leve protegida se tornasse internacionalmente competitiva. Os comparadores apropriados para as perspectivas do capitalismo russo no século XX não são o Japão, mas a Argentina ou mesmo a Índia. Além disso, o desenvolvimento capitalista russo trouxe pouco ou nenhum benefício para a classe trabalhadora urbana e rural, intensificando os conflitos de classe que eclodiram na Revolução.
+
+Com a chegada da revolução de 1917 (e depois de uma sangrenta guerra civil, com sua política de comunismo de guerra), a economia soviética começou a disparar. A Nova Política Econômica (que nacionalizou a indústria em grande escala e redistribuiu a terra, enquanto permitia a venda privada do excedente agrícola) conseguiu transformar a Rússia de uma sociedade semi-capitalista em uma sociedade capitalista de estado em desenvolvimento, estabelecendo as bases para o socialismo. O Professor Clarke afirma:
+
+>Após o comunismo de guerra, a Nova Política Econômica (NEP) procurou desenvolver a economia russa dentro de uma estrutura quase capitalista.
+
+No entanto, as circunstâncias econômicas passaram a exigir a transição para uma economia socialista planejada:
+
+>No entanto, as barreiras institucionais e estruturais ao desenvolvimento econômico russo eram agora agravadas pelas circunstâncias desfavoráveis da economia mundial, de modo que não havia perspectiva de desenvolvimento liderado pelas exportações, enquanto a baixa renda doméstica fornecia apenas um mercado limitado para a indústria doméstica. Sem um programa de investimento coordenado pelo Estado, a economia soviética cairia na armadilha da baixa renda típica do mundo subdesenvolvido.
+
+Assim, as condições materiais da época tornavam a transição para uma economia socialista uma necessidade.
+
+## Desenvolvimento econômico e padrões de vida na era socialista
+
+Em 1928 (depois que Stalin chegou ao poder como chefe do Partido Comunista), a Rússia Soviética instituiu uma economia totalmente planejada e o primeiro [Plano Quinquenal](https://en.wikipedia.org/wiki/Five-year_plans_of_the_Soviet_Union) foi aprovado. Isso resultou em rápido crescimento econômico. De acordo com Robert Allen:
+
+>O PIB soviético aumentou rapidamente com o início do primeiro Plano Quinquenal em 1928... A expansão da indústria pesada e o uso de metas de produção e orçamentos flexíveis para direcionar as empresas eram adequados às condições da década de 1930, eles foram adotados rapidamente, e levaram a um rápido crescimento do investimento e do consumo.
+
+depois eu termino mo preguica kk
