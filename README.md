@@ -24,7 +24,7 @@
    * [O que é Comunismo?](#o-que-é-comunismo)
 
  * [Experiências socialistas](#experiencias-socialistas)
-   * [União Soviética](#a-uniao-sovietica)
+   * [União Soviética](#a-união-soviética)
    
 
  * [Outros tópicos](#outros-tópicos)
