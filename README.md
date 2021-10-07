@@ -315,13 +315,13 @@ Mesmo assim acusa-se bastante Stalin de autoritarismo. Menciono, Engels, pois h�
 
 Não há muito que acrescentar aqui, mas sim ponderar no que tange a importância de não alimentar o fantasma liberal do conceito de “autoritário”, certo que toda ordem social fruto de revolução, onde se inclui a própria ordem burguesa, é “autoritária” na perspectiva de que uma classe está impondo seus interesses a partir da força coercitiva das armas e das instituições que protegem o sistema. A diferença é que a revolução comunista, como lembra Engels, deseja o fim do autoritarismo de uma vez por todas. Para finalizar, podemos recorrer à constituição da URSS para espantar de vez o fantasma da tirania que sonda a figura de Stalin. 
 
->Constituição de 1936 — URSS, Capitulo 3:
+Constituição de 1936 — URSS, Capitulo 3:
 
 * “Artigo 34 — O Soviet da União será eleito pelos cidadãos da URSS, por distritos, na base de um deputado para cada 300.000 habitantes.
 * Artigo 36 — O Supremo Soviet da URSS será eleito por um período de quatro anos.
 * Artigo 42 — O Soviet da União deverá eleger um Presidente e dois vice-presidentes para o Soviet da União.
 
->Capitulo 4:
+Capitulo 4:
 
 * Artigo 57 — O mais alto órgão do poder de Estado de uma República Soviética Socialista é o seu Supremo Soviet.
 * Artigo 58 — O Supremo Soviet de uma República Soviética Socialista deve ser eleito pelos cidadãos da república, pelo prazo de quatro anos. Os cálculos para a representação deverão ser fixados pela Constituição das Repúblicas Soviéticas Socialistas.” [8]
