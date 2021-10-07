@@ -211,4 +211,70 @@ Em 1928 (depois que Stalin chegou ao poder como chefe do Partido Comunista), a R
 
 >O PIB soviético aumentou rapidamente com o início do primeiro Plano Quinquenal em 1928... A expansão da indústria pesada e o uso de metas de produção e orçamentos flexíveis para direcionar as empresas eram adequados às condições da década de 1930, eles foram adotados rapidamente, e levaram a um rápido crescimento do investimento e do consumo.
 
+Os economistas burgueses alegavam que esse rápido crescimento veio do consumo per capita e dos padrões de vida. No entanto, pesquisas mais recentes mostraram que isso é falso. Allen afirma:
 
+>Não houve nenhum debate de que o "consumo coletivo" (principalmente serviços de educação e saúde) aumentou acentuadamente, mas a visão padrão era que o consumo privado diminuiu. Pesquisas recentes, no entanto, colocam essa conclusão em questão... Embora o investimento certamente tenha aumentado rapidamente, pesquisas recentes mostram que o padrão de vida também aumentou rapidamente.
+
+O consumo de calorias aumentou rapidamente durante este período:
+
+>As calorias são a dimensão mais básica do padrão de vida, e seu consumo era maior no final dos anos 1930 do que nos anos 1920... Em 1895-1910, a disponibilidade de calorias era de apenas 2100 por dia, o que é muito baixo para os padrões modernos. No final da década de 1920, a disponibilidade de calorias avançou para 2.500... No final da década de 1930, a recuperação da agricultura aumentou a disponibilidade de calorias para 2.900 por dia, um aumento significativo em relação ao final da década de 1920. A situação alimentar durante a Segunda Guerra Mundial era grave, mas em 1970 o consumo de calorias aumentou para 3.400, o que estava no mesmo nível da Europa Ocidental.
+
+No geral, o desenvolvimento da economia soviética durante o período socialista foi muito impressionante. De acordo com Robert Allen:
+
+>A economia soviética teve um bom desempenho... O planejamento levou a altas taxas de acumulação de capital, rápido crescimento do PIB e aumento do consumo per capita mesmo na década de 1930.
+
+Esse sucesso também é atribuído especificamente à revolução e ao sistema socialista. Como afirma Allen:
+
+>Esse sucesso não teria ocorrido sem a revolução de 1917 ou o desenvolvimento planejado da indústria estatal.
+
+Os benefícios de um sistema socialista são óbvios após um estudo mais detalhado. Como Simon Clarke coloca:
+
+>...uma economia capitalista não teria criado os empregos industriais necessários para empregar o trabalho excedente, uma vez que os capitalistas só empregariam trabalho enquanto o produto marginal do trabalho excedesse o salário. A industrialização patrocinada pelo Estado não enfrentou tais restrições, uma vez que as empresas foram incentivadas a expandir o emprego de acordo com as demandas do plano.
+
+O crescimento econômico também foi auxiliado pela liberação das mulheres e o consequente controle sobre a taxa de natalidade, bem como a participação das mulheres na força de trabalho. Allen afirma:
+
+>O rápido crescimento da renda per capita estava condicionada não apenas sobre a rápida expansão do PIB, mas também sobre o lento crescimento da população. Isso se deveu principalmente a uma rápida transição da fertilidade, e não a um aumento na mortalidade por coletivização, repressão política ou Segunda Guerra Mundial. A queda nas taxas de natalidade deveu-se principalmente à educação e ao emprego das mulheres fora de casa. Essas políticas, por sua vez, foram resultados da ideologia iluminista em sua variante comunista.
+
+As críticas ao trabalho de Allen corroboraram suas declarações. De acordo com Simon Clarke:
+
+>Allen mostra que a estratégia stalinista funcionou, em termos estritamente econômicos, até por volta de 1970... O livro de Allen convincentemente estabelece a superioridade de uma economia planejada sobre uma capitalista em condições de excedente de trabalho (que é a condição na maior parte do tempo).
+
+Outros estudos confirmaram as descobertas de que os padrões de vida da URSS aumentaram rapidamente. De acordo com a economista [Elizabeth Brainerd](https://www.ebrainerd.com/)
+
+>Melhorias notavelmente grandes e rápidas na altura da criança, estatura adulta e mortalidade infantil foram registradas de aproximadamente 1945 a 1970... As estimativas ocidentais e soviéticas do crescimento do PIB na União Soviética indicam que o PIB per capita cresceu em cada década na era pós-guerra, às vezes ultrapassando de longe as taxas de crescimento das economias ocidentais desenvolvidas... As medidas convencionais de crescimento do PNB e do consumo das famílias indicam uma longa e ininterrupta escalada do padrão de vida soviético de 1928 a 1985; mesmo as estimativas ocidentais dessas medidas apoiam essa visão, embora em uma taxa de crescimento mais lenta do que as medidas soviéticas.
+
+Infelizmente, após a introdução de reformas de mercado e outras políticas revisionistas, os padrões de vida começaram a se deteriorar (embora algumas medidas continuassem a aumentar, embora mais lentamente). Brainerd afirma:
+
+>Três medidas diferentes de saúde da população mostram uma melhoria consistente e grande entre aproximadamente 1945 e 1969: altura da criança, altura do adulto e mortalidade infantil, todas melhoraram significativamente durante este período. Essas três medidas biológicas do padrão de vida também corroboram a evidência de alguma deterioração nas condições de vida a partir de 1970, quando a mortalidade infantil e adulta estava aumentando e a estatura infantil e adulta parou de aumentar e em algumas regiões começou a diminuir.
+
+O crescimento econômico também começou a desacelerar nessa época. De acordo com Robert Allen:
+
+>Após a Segunda Guerra Mundial, a economia soviética voltou a crescer rapidamente. Em 1970, a taxa de crescimento estava caindo e a produção per capita estava estática em 1985.
+
+A Guerra Fria foi outro fator que contribuiu para desacelerar as taxas de crescimento:
+
+>A Guerra Fria foi um fator adicional que reduziu o crescimento soviético depois de 1968. A criação de armamentos de alta tecnologia exigiu uma alocação desproporcional de pessoal e recursos de Pesquisa & Desenvolvimento para os militares. A inovação em máquinas e produtos civis diminuiu em conformidade. Metade da redução na taxa de crescimento do PIB per capita deveu-se ao declínio no crescimento da produtividade, e essa redução fornece um limite superior para o impacto da corrida armamentista com os Estados Unidos.
+
+Bem, a URSS alcançou resultados econômicos extremamente positivos até os anos 70, quando as políticas revisionistas e a Guerra Fria começaram a causar uma estagnação. Agora, vamos passar do desenvolvimento econômico e falar sobre os padrões de saúde da população soviética.
+
+## Condições de saúde no período socialista
+
+As condições de saúde na Rússia czarista eram deploráveis; estava entre as nações menos saudáveis da Europa e provavelmente em todo o mundo. De acordo com o Professor Reiner Dinkel (Universidade de Munique):
+
+>Sem dúvida, a União Soviética era um dos países europeus mais subdesenvolvidos na época da Revolução de Outubro. Em termos de expectativa de vida, ficou atrás dos outros países industrializados da Europa por cerca de 15 anos.
+
+No entanto, após a revolução socialista, as condições de saúde começaram a aumentar rapidamente. No final do período socialista, os padrões de saúde (medidos pela expectativa de vida e taxas de mortalidade) eram superiores aos da Europa Ocidental e dos EUA. O professor Dinkel afirma:
+
+>Um dos avanços mais notáveis do socialismo foi e geralmente era visto como a melhoria na provisão de saúde pública para a população como um todo. De acordo com essa suposição, as taxas de mortalidade na União Soviética diminuíram rapidamente nas primeiras duas décadas após a Segunda Guerra Mundial. Em 1965, a expectativa de vida de homens e mulheres em todas as partes da União Soviética, que ainda incluía vastas regiões subdesenvolvidas com condições de vida desfavoráveis, era tão alta ou até maior do que nos Estados Unidos. Tal desenvolvimento se encaixa perfeitamente no quadro do desenvolvimento industrial emergente e na melhoria geral das condições de vida.
+
+Mesmo os intelectuais reacionários foram forçados a reconhecer essas realizações; de acordo com Nicholas Eberstadt (um consultor de think tank conservador), os padrões de saúde na União Soviética durante o período socialista ultrapassaram os dos EUA e da Europa Ocidental:
+
+>Durante grande parte deste século, a nação na vanguarda da revolução na saúde foi a União Soviética. Em 1897, a Rússia Imperial ofereceu ao seu povo uma expectativa de vida de talvez trinta anos. Na Rússia europeia, pelo que podemos perceber, a mortalidade infantil (ou seja, a morte no primeiro ano) atingiu cerca de uma criança em quatro, e no interior asiático da Rússia o número de mortes foi provavelmente mais próximo de um em três. No entanto, no final da década de 1950, o cidadão soviético médio podia esperar viver 68,7 anos: mais do que os americanos, que haviam começado o século com uma vantagem de dezessete anos. Em 1960, a taxa de mortalidade infantil soviética, mais alta do que qualquer na Europa até os anos 20, era menor do que a da Itália, Áustria ou Alemanha Oriental, e parecia certa reduzir nações como Bélgica e Alemanha Ocidental a qualquer ano.
+
+Ele até observa que essas conquistas fizeram o socialismo parecer quase imbatível:
+
+>Diante dessas e de outras realizações materiais igualmente impressionantes, as afirmações soviéticas sobre a superioridade de seu sistema “socialista”, sua relevância para os países pobres e a inevitabilidade de seu triunfo sobre a ordem capitalista não foram facilmente refutadas.
+
+Entretanto, mesmo com as condições de saúde tenham começado a declinar após a introdução de políticas revisionistas em meados dos anos 60, as conquistas do sistema socialista na área de saúde permanecem incontestáveis.
+
+## A questão Stalin
