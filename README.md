@@ -293,17 +293,35 @@ Primeiramente, o que vem na sua cabeça quando falamos de Stalin? Imagino que vo
 
 ## Culto a personalidade
 
-“Stalinismo”, termo que vem sendo bastante usado, este cuja criação representa puro sadismo. Uma vez que coloca a Stalin a figura de um tirano e o coloca como criador de uma nova vertente do marxismo que o colocava como centro. O que, na verdade, não passa de mentira, pois Stalin em nenhum momento criou uma ideologia desconexa com o marxismo-leninismo. Já o “culto à personalidade” é algo ainda mais fantasioso, afinal, nem o próprio Stalin acreditava em tal conceito e tecia criticas a ele, o que é evidenciado em suas próprias palavras:
+“Stalinismo”, termo que vem sendo bastante usado, este cuja criação representa puro sadismo. Uma vez que coloca a Stalin a figura de um tirano e o coloca como criador de uma nova vertente do marxismo que o colocava como centro. O que, na verdade, não passa de mentira, pois Stalin em nenhum momento criou uma ideologia desconexa com o marxismo-leninismo. Já o “culto à personalidade” é algo ainda mais fantasioso, afinal, nem o próprio Stalin acreditava em tal conceito e tecia criticas a ele, o que é evidenciado em suas próprias palavras: 
 
->Sinceramente, camaradas, devo dizer que não mereço nem metade das coisas lisonjeiras que me foi dito aqui. Pelo que dão a entender, sou um herói da Revolução de Outubro, o líder do Partido Comunista Internacional, o líder do Comunismo, um guerreiro lendário, e tudo mais… Isso é um absurdo, camaradas, um exagero completamente desnecessário. Este é o tipo de coisa que costumam dizer no funeral de um revolucionário morto, mas eu não tenho nenhuma intenção de morrer ainda. Na verdade eu era e continuo a ser um dos aprendizes de trabalhadores qualificados nas oficinas ferroviárias em Tbilisi.
+>Sinceramente, camaradas, devo dizer que não mereço nem metade das coisas lisonjeiras que me foi dito aqui. Pelo que dão a entender, sou um herói da Revolução de Outubro, o líder do Partido Comunista Internacional, o líder do Comunismo, um guerreiro lendário, e tudo mais… Isso é um absurdo, camaradas, um exagero completamente desnecessário. Este é o tipo de coisa que costumam dizer no funeral de um revolucionário morto, mas eu não tenho nenhuma intenção de morrer ainda. Na verdade eu era e continuo a ser um dos aprendizes de trabalhadores qualificados nas oficinas ferroviárias em Tbilisi. [2]
+
 >“Me falais de vossa ‘devoção’ a mim (…), mas eu vos aconselho descartar o “princípio” da devoção as pessoas. Esse não é o caminho bolchevique. Sede unicamente devoto da classe obreira, de seu Partido e seu Estado. Isso é uma coisa boa e útil. Mas não confundais com a devoção das pessoas, esta ninharia vã e inútil, é própria de intelectuais de pouca vontade.” [3]
 
 ## Stalin ditador?
 
-Para responder essa pergunta, vale ressaltar aqui, primeiramente, as vezes em que Stalin propôs aos membros do partido sua própria renuncia, o que demonstra o quão “tirano” ele era:
+Para responder essa pergunta, vale ressaltar aqui, primeiramente, as vezes em que Stalin propôs aos membros do partido sua própria renuncia, o que demonstra o quão “ditador” ele era:
 
 * Em 1924, no 13º Congresso do Partido Comunista, Stálin renunciou ao seu cargo, mas o partido negou seu pedido (incluindo Trotsky).
 
 * Em 1934 Stálin novamente solicitou ser removido do cargo, mas o partido rejeitou novamente.- Em 1946 Stálin e seu governo deixaram o governo, como definido pela constituição de 1936. Mas o partido lhe pediu, no mesmo dia, que ele formasse um novo governo.
 
 * Em 1952, no 19º Congresso do Partido Comunista, Stálin mais uma vez entregou o cargo, o que o partido novamente rejeitou. [4] [5] [6]
+
+Mesmo assim acusa-se bastante Stalin de autoritarismo. Menciono, Engels, pois há um trecho em que ele aborda o assunto “autoritarismo” de forma bastante esclarecedora:
+
+>“Porque é que os anti-autoritários não se limitam a erguer-se contra a autoridade política, contra o Estado? Todos os socialistas concordam em que o Estado político e com ele a autoridade política desaparecerão como consequência da próxima revolução social, ou seja, que as funções públicas perderão o seu caráter político e se transformarão em simples funções administrativas protegendo os verdadeiros interesses sociais. Mas os anti-autoritários pedem que o Estado político autoritário seja abolido de um golpe, antes mesmo que se tenham destruído as condições sociais que o fizeram nascer. Pedem que o primeiro ato da revolução social seja a abolição da autoridade. Já alguma vez viram uma revolução, estes senhores? Uma revolução é certamente a coisa mais autoritária que se possa imaginar; é o ato pelo qual uma parte da população impõe a sua vontade à outra por meio das espingardas, das baionetas e dos canhões, meios autoritários como poucos; e o partido vitorioso, se não quer ser combatido em vão, deve manter o seu poder pelo medo que as suas armas inspiram aos reacionários. A Comuna de Paris teria durado um dia que fosse se não se servisse dessa autoridade do povo armado face aos burgueses? Não será verdade que, pelo contrário, devemos lamentar que não se tenha servido dela suficientemente? Assim, das duas uma: ou os anti-autoritários não sabem o que dizem, e, nesse caso, só semeiam a confusão; ou, sabem-no, e, nesse caso, atraiçoam o movimento do proletariado. Tanto num caso como noutro, servem à reação.” [7]
+
+Não há muito que acrescentar aqui, mas sim ponderar no que tange a importância de não alimentar o fantasma liberal do conceito de “autoritário”, certo que toda ordem social fruto de revolução, onde se inclui a própria ordem burguesa, é “autoritária” na perspectiva de que uma classe está impondo seus interesses a partir da força coercitiva das armas e das instituições que protegem o sistema. A diferença é que a revolução comunista, como lembra Engels, deseja o fim do autoritarismo de uma vez por todas. Para finalizar, podemos recorrer à constituição da URSS para espantar de vez o fantasma da tirania que sonda a figura de Stalin. 
+
+>Constituição de 1936 — URSS, Capitulo 3:
+
+* “Artigo 34 — O Soviet da União será eleito pelos cidadãos da URSS, por distritos, na base de um deputado para cada 300.000 habitantes.
+* Artigo 36 — O Supremo Soviet da URSS será eleito por um período de quatro anos.
+* Artigo 42 — O Soviet da União deverá eleger um Presidente e dois vice-presidentes para o Soviet da União.
+
+>Capitulo 4:
+
+* Artigo 57 — O mais alto órgão do poder de Estado de uma República Soviética Socialista é o seu Supremo Soviet.
+* Artigo 58 — O Supremo Soviet de uma República Soviética Socialista deve ser eleito pelos cidadãos da república, pelo prazo de quatro anos. Os cálculos para a representação deverão ser fixados pela Constituição das Repúblicas Soviéticas Socialistas.” [8]
