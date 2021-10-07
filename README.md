@@ -29,6 +29,8 @@
      * [Desenvolvimento econômico e padrões de vida na era socialista](#desenvolvimento-econômico-e-padrões-de-vida-na-era-socialista)
      * [Condições de saúde no período socialista](#condições-de-saúde-no-período-socialista)
      * [Sobre Stalin](#sobre-stalin)
+       * [Culto a personalidade](#culto-a-personalidade)
+       * [Stalin ditador?](#stalin-ditador)
    
 
  * [Outros tópicos](#outros-tópicos)
