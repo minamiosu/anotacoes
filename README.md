@@ -319,7 +319,7 @@ Não há muito que acrescentar aqui, mas sim ponderar no que tange a importânci
 
 Constituição de 1936 — URSS, Capitulo 3:
 
-* “Artigo 34 — O Soviet da União será eleito pelos cidadãos da URSS, por distritos, na base de um deputado para cada 300.000 habitantes.
+* Artigo 34 — O Soviet da União será eleito pelos cidadãos da URSS, por distritos, na base de um deputado para cada 300.000 habitantes.
 * Artigo 36 — O Supremo Soviet da URSS será eleito por um período de quatro anos.
 * Artigo 42 — O Soviet da União deverá eleger um Presidente e dois vice-presidentes para o Soviet da União.
 
@@ -346,4 +346,11 @@ A CIA também lançou um [paper](https://www.cia.gov/readingroom/docs/CIA-RDP80-
 
 Referências/Fontes
 
-[Ciência proletaria livre](https://cienciaproletarialivre.com/2019/03/06/6-mitos-sobre-stalin-que-voce-provavelmente-ja-acreditou/)
+* STALIN, Joseph. J.V. Stalin: Works. Moscou: S.n., 1954. p. 182
+* STALIN, Joseph. J.V. Stalin: Works. Moscou: S.n., 1955. p. 20
+* [FURR, Grover. Stalin and the Struggle for Democratic Reform](http://marxism.halkcephesi.net/Grover%20Furr/index.htm)
+* [STALIN, J.v.. Speech at the Plenum of the Central Committee of the Communist Party of the Soviet Union](http://www.revolutionarydemocracy.org/rdv8n1/stalin.htm)
+* [ENGELS, Friedrich. Sobre a Autoridade](https://www.marxists.org/portugues/marx/1873/03/autoridade-pt.htm)
+* [URSS. Constituição, de 1936. Moscou](https://www.marxists.org/portugues/stalin/biografia/ludwig/constituicao.htm)
+* [MARTENS, Ludo. Um Outro Olhar Sobre Stáline. S.l: Para A História do Socialismo, 2009](http://www.hist-socialismo.com/docs/UmOutroOlharStaline.pdf)
+* [Ciência Proletaria Livre](https://cienciaproletarialivre.com/2019/03/06/6-mitos-sobre-stalin-que-voce-provavelmente-ja-acreditou/)
