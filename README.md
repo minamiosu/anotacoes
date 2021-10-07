@@ -18,7 +18,7 @@
        * [Centro Direita](#centro-direita)
        * [Direita Liberal](#direita-liberal)
        * [Extrema Direital](#extrema-direita)
-      
+         
    * [O que é Capitalismo?](#o-que-é-capitalismo)
    * [O que é Socialismo?](#o-que-é-socialismo)
    * [O que é Comunismo?](#o-que-é-comunismo)
@@ -141,7 +141,7 @@ Recapitulando: A sociedade socialista vai ser uma sociedade pós-capitalista, um
 
 # O que é Comunismo?
 
-O comunismo, sociedade pós-socialista, um sistema social, político e econômico onde não vai existir mais classes sociais, não vai mais existir o estado e não vai mais existir qualquer tipo de divisão da sociedade. Não existe País comunista, e quem afirma isso não sabe o que é comunismo. A sociedade comunista vai se organizar em comunas, em comunidades, não em estado, nações, esse negócios de países não vai existir, por isso não existe País comunista e nunca vai existir. 
+O comunismo, sociedade pós-socialista, um sistema social, político e econômico onde não vai existir mais classes sociais, não vai mais existir o estado e não vai mais existir qualquer tipo de divisão da sociedade. Não existe País comunista, e quem afirma isso não sabe o que é comunismo. A sociedade comunista vai se organizar em comunas, em comunidades, não em estado, nações, países não vão existir, por isso não existe País comunista e nunca vai existir. 
 
 No comunismo não vai existir mais classes sociais, todas as pessoas vão trabalhar, essa história de que comunista não gosta de trabalhar, comunista não quer que ninguém trabalhe é pura balela, pois quem não gosta de trabalhar são os burgueses, a sociedade onde existe pessoas parasitando outras sem trabalhar é a sociedade capitalista. No comunismo todos vão trabalhar, a diferença é que as pessoas não irão trabalhar em trabalhos desgastantes, trabalho adoecedor, em trabalho mal remunerado, as pessoas não vão precisar ficar se matando de trabalhar todo mísero dia para ter o mínimo, e olhe lá, às vezes o trabalhador não chega nem a ter o mínimo; Comida, moradia etc. No comunismo as pessoas trabalharão em prol da sociedade, e claro, em prol de nós mesmos, da nossa família, em prol de todos, da coletividade, justamente pelo fato dos meios de produção serem coletivos, toda a sociedade, todos os trabalhadores vão decidir os rumos da produção para a necessidade de todo mundo ser suprida. 
 
@@ -211,4 +211,4 @@ Em 1928 (depois que Stalin chegou ao poder como chefe do Partido Comunista), a R
 
 >O PIB soviético aumentou rapidamente com o início do primeiro Plano Quinquenal em 1928... A expansão da indústria pesada e o uso de metas de produção e orçamentos flexíveis para direcionar as empresas eram adequados às condições da década de 1930, eles foram adotados rapidamente, e levaram a um rápido crescimento do investimento e do consumo.
 
-depois eu termino mo preguica kk
+
