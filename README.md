@@ -278,3 +278,9 @@ Ele até observa que essas conquistas fizeram o socialismo parecer quase imbatí
 Entretanto, mesmo com as condições de saúde tenham começado a declinar após a introdução de políticas revisionistas em meados dos anos 60, as conquistas do sistema socialista na área de saúde permanecem incontestáveis.
 
 ## A questão Stalin
+
+"Eu sei que após minha morte, jogarão muito lixo sobre meu túmulo, porém os ventos da história os removerão".
+
+Nascia em 18 de dezembro de 1878, na periferia do gigantesco império Russo, na Geórgia, Ióssif Vissarionovitch Stalin.
+
+Stalin foi e ainda é uma grande figura atemporal que suscita em várias épocas e locais diferentes discussões e debates acerca de seus feitos históricos, provando que, diferente do objetivo de seus detratores,seu legado continua vivo e inspirando povos em todos os cantos do mundo.
