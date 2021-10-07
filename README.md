@@ -31,6 +31,7 @@
      * [Sobre Stalin](#sobre-stalin)
        * [Culto a personalidade](#culto-a-personalidade)
        * [Stalin ditador?](#stalin-ditador)
+       * A "grande fome" na Ucrânia (Holodomor)
    
 
  * [Outros tópicos](#outros-tópicos)
@@ -354,3 +355,23 @@ Referências/Fontes
 * [URSS. Constituição, de 1936. Moscou](https://www.marxists.org/portugues/stalin/biografia/ludwig/constituicao.htm)
 * [MARTENS, Ludo. Um Outro Olhar Sobre Stáline. S.l: Para A História do Socialismo, 2009](http://www.hist-socialismo.com/docs/UmOutroOlharStaline.pdf)
 * [Ciência Proletaria Livre](https://cienciaproletarialivre.com/2019/03/06/6-mitos-sobre-stalin-que-voce-provavelmente-ja-acreditou/)
+
+## A “grande fome” na Ucrânia (Holodomor)
+
+Os aparelhos ideológicos e intelectuais da burguesia estão em trabalho frenético para nos 100 anos da Revolução Russa difamar como podem a primeira experiência de poder operário consolidada da história — não sem contribuição fundamental, como sempre, de setores expressivos da esquerda. Um dos maiores mitos, isto é, uma construção historiográfica sem qualquer base factual e referencial em pesquisa histórica séria, mas que se sustenta de acordo com sua função política-ideológica na luta de classes, é a da grande fome ucraniana ou também conhecida como Holodomor. É afirmado que o Estado soviético através de uma política de fome planejada operou o extermínio de 6 ou 10 milhões (o número depende do grau de anticomunismo do autor) de ucranianos. Evidentemente, esse suposto episódio serve para equiparar o socialismo soviético com o nazismo: os ucranianos teriam sido o equivalente aos judeus no Holocausto. Vejamos com breves comentários como esse mito não tem qualquer base factual.
+
+Houve uma profunda crise agrícola na Ucrânia na década de 30, causada pro múltiplos fatores. Além dos problemas climáticos que afetaram a safra de grãos, a União Soviética passava por uma crise política no campo, com a resistência dos kulaks (grandes latifundiários) à política de coletivização das terras agricultáveis. Os kulaks organizaram intensas campanhas de boicote, destruindo plantações, queimando fazendas, abatendo o gado, etc. Já desgastada pela recente guerra civil e conflitos externos, a capacidade de resposta da União Soviética à crise famélica foi profundamente limitada em função dos embargos econômicos e bloqueio de suas reservas de ouro, impostos pelas potências ocidentais para prejudicar a sua industrialização e causar insegurança alimentar.
+
+Holodomor é a tese inventada pelo ministro da propaganda nazista Joseph Goebbels de que a Grande Fome Ucraniana de 1932-33 teria sido criada artificialmente por Stalin e a União Soviética com o objetivo deliberado de matar os ucranianos de fome. Essa tese foi ventilada não apenas pelos nazistas, mas também pelos acadêmicos e imprensa estadunidense durante a Guerra Fria, com intenções óbvias, e sempre foi uma tese defendida por revisionistas neonazistas e pela extrema direita. As primeiras referências ao  "genocídio ucraniano" sempre partem do propagandista do regime nazista, Joseph Goebbels, seja nos seus discursos, diários ou escritos. A tese se popularizou no Ocidente a partir da visita de William Hearst, o magnata da imprensa americana auto-intitulado "fascista número um da América", a Adolf Hitler.
+Essa tese nunca teve aceitação majoritária entre historiadores, sempre foi vista com reserva na academia e não tem até hoje reconhecimento político majoritário, sendo rejeitada por 95% dos países do mundo.
+
+Se quiser uma explicação mais simples e mais esclarecedora, recomendo o [vídeo](https://www.youtube.com/watch?v=KLcri77OL3g) da Laura Sabino, onde ela conta como essa tese foi construída e ganhou força.
+
+Agora se quiser se aprofundar mais no assunto, deixarei o link para uma página que traduziu uma série de artigos/textos de historiadores sobre a tese de holodomor, suas fraudes etc.
+
+* [Artigo de Annie Lacroix-Riz, historiadora francesa, professora da Universidade Paris VII.](https://www.facebook.com/pensarahistoria/posts/148669033625866)
+* [Holodomor - Anatomia de uma Farsa. - Por Eli Rosenbaum, consultor legal do Congresso Mundial Judaico, sobre o "Holodomor", em 1988](https://www.facebook.com/pensarahistoria/posts/136030051556431)
+* [O Mito do Holodomor. - Por Dougal MacDonald, educador canadense e professor da Universidade de Alberta](https://www.facebook.com/pensarahistoria/posts/148725700286866)
+* [Pensar a História](https://www.facebook.com/pensarahistoria/posts/148574650301971)
+
+Os liberais acusam os comunistas de estarem sendo revisionistas, assim como os neonazi são com o holocausto. Mas só é revisionismo quando você tá contestando uma interpretação majoritária da historiografia sobre um assunto. A tese que a fome na Ucrânia foi causada intencionalmente pra exterminar a própria população não é majoritária pelos historiadores, longe disso.
