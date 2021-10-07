@@ -31,7 +31,7 @@
      * [Sobre Stalin](#sobre-stalin)
        * [Culto a personalidade](#culto-a-personalidade)
        * [Stalin ditador?](#stalin-ditador)
-       * A "grande fome" na Ucrânia (Holodomor)
+       * [A "grande fome" na Ucrânia (Holodomor)](#a-grande-fome-na-ucrânia-holodomor)
    
 
  * [Outros tópicos](#outros-tópicos)
