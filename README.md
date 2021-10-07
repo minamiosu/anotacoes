@@ -17,7 +17,7 @@
      * [Tipos de Direita](#tipos-de-direita)
        * [Centro Direita](#centro-direita)
        * [Direita Liberal](#direita-liberal)
-       * [Extrema Direital](#extrema-direita)
+       * [Extrema Direita](#extrema-direita)
          
    * [O que é Capitalismo?](#o-que-é-capitalismo)
    * [O que é Socialismo?](#o-que-é-socialismo)
