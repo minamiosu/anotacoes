@@ -279,8 +279,14 @@ Entretanto, mesmo com as condições de saúde tenham começado a declinar após
 
 ## A questão Stalin
 
+![EpzHya0XMAMdNF7](https://user-images.githubusercontent.com/91556860/136443262-11b013de-b0dd-441e-82af-ae4214d47e51.jpg)
+
 "Eu sei que após minha morte, jogarão muito lixo sobre meu túmulo, porém os ventos da história os removerão".
 
-Nascia em 18 de dezembro de 1878, na periferia do gigantesco império Russo, na Geórgia, Ióssif Vissarionovitch Stalin.
+Nascia em 18 de dezembro de 1878, na periferia do gigantesco império Russo, na Geórgia, Josef Vissarionovitch Stalin.
 
-Stalin foi e ainda é uma grande figura atemporal que suscita em várias épocas e locais diferentes discussões e debates acerca de seus feitos históricos, provando que, diferente do objetivo de seus detratores,seu legado continua vivo e inspirando povos em todos os cantos do mundo.
+Stalin foi e ainda é uma grande figura atemporal que suscita em várias épocas e locais diferentes, discussões e debates acerca de seus feitos históricos, provando que, diferente do objetivo de seus detratores, seu legado continua vivo e inspirando povos em todos os cantos do mundo.
+
+Primeiramente, o que vem na sua cabeça quando falamos de Stalin? Imagino que você ao ler esse nome, logo relacionou a atrocidades, genocídios e milhares de mortes. Isso é vendido para o senso comum como a verdadeira imagem de Stalin. Escrevo este texto na expectativa de atingir aqueles que acreditam nessa dita “verdade” e que não se questionam sobre esse fato.
+
+
