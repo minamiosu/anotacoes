@@ -189,7 +189,7 @@ A União das Repúblicas Socialistas Soviéticas foi a primeira nação a se dec
 
 Irei construir esse tópico em três partes. A primeira é uma discussão sobre as conquistas do socialismo soviético em termos de desenvolvimento econômico, padrão de vida e saúde. Falarei também sobre o Stalin. O segundo tópico será uma discussão sobre os avanços soviéticos na aréa de direitos as mulheres, e a oposição ao racismo (tanto internamente como em sua manifestação global do imperialismo). Também veremos a natureza da democracia soviética. A terceira e última parte falará sobre a eventual queda da URSS e os efeitos desastrosos da restauração capitalista e do revisionismo.
 
-## Revolução, comunismo de guerra e NEP
+# Revolução, comunismo de guerra e NEP
 
 Em 1917, quando ocorreu a conhecida revolução russa, a Rússia era uma sociedade feudal extremamente atrasada e semicapitalista. O sistema feudal havia sido abolido recentemente e substituído pela forma mais brutal e primitiva do capitalismo. A nação estava terrivelmente subdesenvolvida, sem sinais de melhoras para o futuro. Não só isso, mas o pequeno crescimento que ocorreu levou à grandes desigualdades. De acordo com o professor [Robert Allen](https://nyuad.nyu.edu/en/academics/divisions/social-science/faculty/robert-allen.html)(ex-Oxford University, agora na NYU):
 
@@ -209,7 +209,7 @@ No entanto, as circunstâncias econômicas passaram a exigir a transição para 
 
 Assim, as condições materiais da época tornavam a transição para uma economia socialista uma necessidade.
 
-## Desenvolvimento econômico e padrões de vida na era socialista
+# Desenvolvimento econômico e padrões de vida na era socialista
 
 Em 1928 (depois que Stalin chegou ao poder como chefe do Partido Comunista), a Rússia Soviética instituiu uma economia totalmente planejada e o primeiro [Plano Quinquenal](https://en.wikipedia.org/wiki/Five-year_plans_of_the_Soviet_Union) foi aprovado. Isso resultou em rápido crescimento econômico. De acordo com Robert Allen:
 
@@ -261,7 +261,7 @@ A Guerra Fria foi outro fator que contribuiu para desacelerar as taxas de cresci
 
 Bem, a URSS alcançou resultados econômicos extremamente positivos até os anos 70, quando as políticas revisionistas e a Guerra Fria começaram a causar uma estagnação. Agora, vamos passar do desenvolvimento econômico e falar sobre os padrões de saúde da população soviética.
 
-## Condições de saúde no período socialista
+# Condições de saúde no período socialista
 
 As condições de saúde na Rússia czarista eram deploráveis; estava entre as nações menos saudáveis da Europa e provavelmente em todo o mundo. De acordo com o Professor Reiner Dinkel (Universidade de Munique):
 
@@ -281,7 +281,7 @@ Ele até observa que essas conquistas fizeram o socialismo parecer quase imbatí
 
 Entretanto, mesmo com as condições de saúde tenham começado a declinar após a introdução de políticas revisionistas em meados dos anos 60, as conquistas do sistema socialista na área de saúde permanecem incontestáveis.
 
-## Sobre Stalin
+# Sobre Stalin
 
 ![EpzHya0XMAMdNF7](https://user-images.githubusercontent.com/91556860/136443262-11b013de-b0dd-441e-82af-ae4214d47e51.jpg)
 
@@ -290,3 +290,5 @@ _"Eu sei que após minha morte, jogarão muito lixo sobre meu túmulo, porém os
 Stalin foi e ainda é uma grande figura atemporal que suscita em várias épocas e locais diferentes, discussões e debates acerca de seus feitos históricos, provando que, diferente do objetivo de seus detratores, seu legado continua vivo e inspirando povos em todos os cantos do mundo.
 
 Primeiramente, o que vem na sua cabeça quando falamos de Stalin? Imagino que você ao ler esse nome, logo relacionou a atrocidades, genocídios e milhares de mortes. Isso é vendido para o senso comum como a verdadeira imagem de Stalin. Escrevo este texto na expectativa de atingir aqueles que acreditam nessa dita “verdade” e que não se questionam sobre esse fato.
+
+## Culto a personalidade
