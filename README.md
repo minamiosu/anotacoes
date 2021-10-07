@@ -183,7 +183,7 @@ Qual a sua conclusão? A minha é que isso não funciona, é puro elitismo, é g
 
 # Experiências Socialistas
 
-## A União Soviética
+# A União Soviética
 
 A União das Repúblicas Socialistas Soviéticas foi a primeira nação a se declarar um estado socialista, dedicado a construção do comunismo. Ao longo das décadas da sua existência, a URSS passou por muitas fases de desenvolvimento e industrialização, saiu de uma sociedade feudal semicapitalista a uma nação capitalista de estado durante os anos da nova política econômica, a um país socialista em desenvolvimento e, a um estado revisionista em regressão em direção ao capitalismo. O objetivo é fazer uma leitura com as conquistas do socialismo na União Soviética até o início dos anos 60, quando as reformas de mercado e a restauração capitalista começaram a fazer efeito. Também iremos analisar os efeitos desastrosos que essas reformas tiveram sobre o bem estar dos soviéticos. 
 
@@ -292,3 +292,9 @@ Stalin foi e ainda é uma grande figura atemporal que suscita em várias épocas
 Primeiramente, o que vem na sua cabeça quando falamos de Stalin? Imagino que você ao ler esse nome, logo relacionou a atrocidades, genocídios e milhares de mortes. Isso é vendido para o senso comum como a verdadeira imagem de Stalin. Escrevo este texto na expectativa de atingir aqueles que acreditam nessa dita “verdade” e que não se questionam sobre esse fato.
 
 ## Culto a personalidade
+
+“Stalinismo”, termo que vem sendo bastante usado, este cuja criação representa puro sadismo. Uma vez que coloca a Stalin a figura de um tirano e o coloca como criador de uma nova vertente do marxismo que o colocava como centro. O que, na verdade, não passa de mentira, pois Stalin em nenhum momento criou uma ideologia desconexa com o marxismo-leninismo. Já o “culto à personalidade” é algo ainda mais fantasioso, afinal, nem o próprio Stalin acreditava em tal conceito e tecia criticas a ele, o que é evidenciado em suas próprias palavras:
+
+>Sinceramente, camaradas, devo dizer que não mereço nem metade das coisas lisonjeiras que me foi dito aqui. Pelo que dão a entender, sou um herói da Revolução de Outubro, o líder do Partido Comunista Internacional, o líder do Comunismo, um guerreiro lendário, e tudo mais… Isso é um absurdo, camaradas, um exagero completamente desnecessário. Este é o tipo de coisa que costumam dizer no funeral de um revolucionário morto, mas eu não tenho nenhuma intenção de morrer ainda. Na verdade eu era e continuo a ser um dos aprendizes de trabalhadores qualificados nas oficinas ferroviárias em Tbilisi.
+>“Me falais de vossa ‘devoção’ a mim (…), mas eu vos aconselho descartar o “princípio” da devoção as pessoas. Esse não é o caminho bolchevique. Sede unicamente devoto da classe obreira, de seu Partido e seu Estado. Isso é uma coisa boa e útil. Mas não confundais com a devoção das pessoas, esta ninharia vã e inútil, é própria de intelectuais de pouca vontade.” [3]
+
