@@ -298,3 +298,12 @@ Primeiramente, o que vem na sua cabeça quando falamos de Stalin? Imagino que vo
 >Sinceramente, camaradas, devo dizer que não mereço nem metade das coisas lisonjeiras que me foi dito aqui. Pelo que dão a entender, sou um herói da Revolução de Outubro, o líder do Partido Comunista Internacional, o líder do Comunismo, um guerreiro lendário, e tudo mais… Isso é um absurdo, camaradas, um exagero completamente desnecessário. Este é o tipo de coisa que costumam dizer no funeral de um revolucionário morto, mas eu não tenho nenhuma intenção de morrer ainda. Na verdade eu era e continuo a ser um dos aprendizes de trabalhadores qualificados nas oficinas ferroviárias em Tbilisi.
 >“Me falais de vossa ‘devoção’ a mim (…), mas eu vos aconselho descartar o “princípio” da devoção as pessoas. Esse não é o caminho bolchevique. Sede unicamente devoto da classe obreira, de seu Partido e seu Estado. Isso é uma coisa boa e útil. Mas não confundais com a devoção das pessoas, esta ninharia vã e inútil, é própria de intelectuais de pouca vontade.” [3]
 
+## Stalin ditador?
+
+Para responder essa pergunta, vale ressaltar aqui, primeiramente, as vezes em que Stalin propôs aos membros do partido sua própria renuncia, o que demonstra o quão “tirano” ele era:
+
+* Em 1924, no 13º Congresso do Partido Comunista, Stálin renunciou ao seu cargo, mas o partido negou seu pedido (incluindo Trotsky).
+
+* Em 1934 Stálin novamente solicitou ser removido do cargo, mas o partido rejeitou novamente.- Em 1946 Stálin e seu governo deixaram o governo, como definido pela constituição de 1936. Mas o partido lhe pediu, no mesmo dia, que ele formasse um novo governo.
+
+* Em 1952, no 19º Congresso do Partido Comunista, Stálin mais uma vez entregou o cargo, o que o partido novamente rejeitou. [4] [5] [6]
