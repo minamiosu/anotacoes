@@ -343,3 +343,7 @@ Durante a Segunda Guerra Mundial, onde foi o "auge" dos poderes de Stalin, foi n
 Gostaria de esclarecer, não nego que a União Soviética teve muitos erros, ela tava longe de ser perfeita, nem nego que Stalin e a posição de secretário-geral tiveram grande poder e influência sobre o partido, o governo e o país, mas chamar Stalin de ditador é totalmente errado, mesmo historiadores anticomunistas não acreditam mais nisso.
 
 A CIA também lançou um [paper](https://www.cia.gov/readingroom/docs/CIA-RDP80-00810A006000360009-0.pdf) com as considerações sobre a Era Stalin onde ela afirma que Stalin não era um líder antidemocrático e totalitário como circulava pelo Ocidente.
+
+Referências/Fontes
+
+[Ciência proletaria livre](https://cienciaproletarialivre.com/2019/03/06/6-mitos-sobre-stalin-que-voce-provavelmente-ja-acreditou/)
