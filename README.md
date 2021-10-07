@@ -23,8 +23,12 @@
    * [O que é Socialismo?](#o-que-é-socialismo)
    * [O que é Comunismo?](#o-que-é-comunismo)
 
- * [Experiências socialistas](#experiencias-socialistas)
+ * [Experiências socialistas](#experiências-socialistas)
    * [União Soviética](#a-união-soviética)
+     * [Revolução, comunismo de guerra e NEP](#revolução-comunismo-de-guerra-e-nep)
+     * [Desenvolvimento econômico e padrões de vida na era socialista](#desenvolvimento-econômico-e-padrões-de-vida-na-era-socialista)
+     * [Condições de saúde no período socialista](#condições-de-saúde-no-período-socialista)
+     * [Sobre Stalin](#sobre-stalin)
    
 
  * [Outros tópicos](#outros-tópicos)
@@ -277,7 +281,7 @@ Ele até observa que essas conquistas fizeram o socialismo parecer quase imbatí
 
 Entretanto, mesmo com as condições de saúde tenham começado a declinar após a introdução de políticas revisionistas em meados dos anos 60, as conquistas do sistema socialista na área de saúde permanecem incontestáveis.
 
-## A questão Stalin
+## Sobre Stalin
 
 ![EpzHya0XMAMdNF7](https://user-images.githubusercontent.com/91556860/136443262-11b013de-b0dd-441e-82af-ae4214d47e51.jpg)
 
@@ -286,5 +290,3 @@ _"Eu sei que após minha morte, jogarão muito lixo sobre meu túmulo, porém os
 Stalin foi e ainda é uma grande figura atemporal que suscita em várias épocas e locais diferentes, discussões e debates acerca de seus feitos históricos, provando que, diferente do objetivo de seus detratores, seu legado continua vivo e inspirando povos em todos os cantos do mundo.
 
 Primeiramente, o que vem na sua cabeça quando falamos de Stalin? Imagino que você ao ler esse nome, logo relacionou a atrocidades, genocídios e milhares de mortes. Isso é vendido para o senso comum como a verdadeira imagem de Stalin. Escrevo este texto na expectativa de atingir aqueles que acreditam nessa dita “verdade” e que não se questionam sobre esse fato.
-
-
