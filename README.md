@@ -281,9 +281,7 @@ Entretanto, mesmo com as condições de saúde tenham começado a declinar após
 
 ![EpzHya0XMAMdNF7](https://user-images.githubusercontent.com/91556860/136443262-11b013de-b0dd-441e-82af-ae4214d47e51.jpg)
 
-"Eu sei que após minha morte, jogarão muito lixo sobre meu túmulo, porém os ventos da história os removerão".
-
-Nascia em 18 de dezembro de 1878, na periferia do gigantesco império Russo, na Geórgia, Josef Vissarionovitch Stalin.
+_"Eu sei que após minha morte, jogarão muito lixo sobre meu túmulo, porém os ventos da história os removerão". - Josef Vissarionovitch Stalin
 
 Stalin foi e ainda é uma grande figura atemporal que suscita em várias épocas e locais diferentes, discussões e debates acerca de seus feitos históricos, provando que, diferente do objetivo de seus detratores, seu legado continua vivo e inspirando povos em todos os cantos do mundo.
 
