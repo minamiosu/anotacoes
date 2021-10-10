@@ -183,6 +183,8 @@ A expectativa de vida nos Estados Unidos atingiu o pico em 2014, porém está em
 Qual a sua conclusão? A minha é que isso não funciona, é puro elitismo, é ganancioso e colapsa dando o prejuízo maior ao trabalhador do que ao empresário. A hegemonia capitalista causou um curto-circuito nas pessoas para que comprassem propaganda absurdamente ilógica e ridícula.
 
  ## O socialismo não funciona?
+ 
+ depois eu termino isso aq
 
 # Experiências Socialistas
 
