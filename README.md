@@ -194,7 +194,7 @@ A União das Repúblicas Socialistas Soviéticas foi a primeira nação a se dec
 
 Irei construir esse tópico em três partes. A primeira é uma discussão sobre as conquistas do socialismo soviético em termos de desenvolvimento econômico, padrão de vida e saúde. Falarei também sobre o Stalin. O segundo tópico será uma discussão sobre os avanços soviéticos na aréa de direitos as mulheres, e a oposição ao racismo (tanto internamente como em sua manifestação global do imperialismo). Também veremos a natureza da democracia soviética. A terceira e última parte falará sobre a eventual queda da URSS e os efeitos desastrosos da restauração capitalista e do revisionismo.
 
-# Revolução, comunismo de guerra e NEP
+## Revolução, comunismo de guerra e NEP
 
 Em 1917, quando ocorreu a conhecida revolução russa, a Rússia era uma sociedade feudal extremamente atrasada e semicapitalista. O sistema feudal havia sido abolido recentemente e substituído pela forma mais brutal e primitiva do capitalismo. A nação estava terrivelmente subdesenvolvida, sem sinais de melhoras para o futuro. Não só isso, mas o pequeno crescimento que ocorreu levou à grandes desigualdades. De acordo com o professor [Robert Allen](https://nyuad.nyu.edu/en/academics/divisions/social-science/faculty/robert-allen.html)(ex-Oxford University, agora na NYU):
 
