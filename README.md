@@ -27,7 +27,7 @@
    * [União Soviética](#a-união-soviética)
      * [Revolução, comunismo de guerra e NEP](#revolução-comunismo-de-guerra-e-nep)
      * [Desenvolvimento econômico e padrões de vida na era socialista](#desenvolvimento-econômico-e-padrões-de-vida-na-era-socialista)
-     * [Condições de saúde no período socialista](#condições-de-saúde-no-período-socialista)
+     * [Saúde no período socialista](#condições-de-saúde-no-período-socialista)
      * [Sobre Stalin](#sobre-stalin)
        * [Culto a personalidade](#culto-a-personalidade)
        * [Stalin ditador?](#stalin-ditador)
@@ -266,7 +266,7 @@ A Guerra Fria foi outro fator que contribuiu para desacelerar as taxas de cresci
 
 Bem, a URSS alcançou resultados econômicos extremamente positivos até os anos 70, quando as políticas revisionistas e a Guerra Fria começaram a causar uma estagnação. Agora, vamos passar do desenvolvimento econômico e falar sobre os padrões de saúde da população soviética.
 
-# Condições de saúde no período socialista
+# Saúde no período socialista
 
 As condições de saúde na Rússia czarista eram deploráveis; estava entre as nações menos saudáveis da Europa e provavelmente em todo o mundo. De acordo com o Professor Reiner Dinkel (Universidade de Munique):
 
