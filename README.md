@@ -188,7 +188,7 @@ Qual a sua conclusão? A minha é que isso não funciona, é puro elitismo, é g
 
 # Experiências Socialistas
 
-## A União Soviética
+# A União Soviética
 
 A União das Repúblicas Socialistas Soviéticas foi a primeira nação a se declarar um estado socialista, dedicado a construção do comunismo. Ao longo das décadas da sua existência, a URSS passou por muitas fases de desenvolvimento e industrialização, saiu de uma sociedade feudal semicapitalista a uma nação capitalista de estado durante os anos da nova política econômica, a um país socialista em desenvolvimento e, a um estado revisionista em regressão em direção ao capitalismo. O objetivo é fazer uma leitura com as conquistas do socialismo na União Soviética até o início dos anos 60, quando as reformas de mercado e a restauração capitalista começaram a fazer efeito. Também iremos analisar os efeitos desastrosos que essas reformas tiveram sobre o bem estar dos soviéticos. 
 
