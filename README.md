@@ -188,7 +188,7 @@ Qual a sua conclusão? A minha é que isso não funciona, é puro elitismo, é g
 
 # Experiências Socialistas
 
-# A União Soviética
+## A União Soviética
 
 A União das Repúblicas Socialistas Soviéticas foi a primeira nação a se declarar um estado socialista, dedicado a construção do comunismo. Ao longo das décadas da sua existência, a URSS passou por muitas fases de desenvolvimento e industrialização, saiu de uma sociedade feudal semicapitalista a uma nação capitalista de estado durante os anos da nova política econômica, a um país socialista em desenvolvimento e, a um estado revisionista em regressão em direção ao capitalismo. O objetivo é fazer uma leitura com as conquistas do socialismo na União Soviética até o início dos anos 60, quando as reformas de mercado e a restauração capitalista começaram a fazer efeito. Também iremos analisar os efeitos desastrosos que essas reformas tiveram sobre o bem estar dos soviéticos. 
 
@@ -214,7 +214,7 @@ No entanto, as circunstâncias econômicas passaram a exigir a transição para 
 
 Assim, as condições materiais da época tornavam a transição para uma economia socialista uma necessidade.
 
-# Desenvolvimento econômico e padrões de vida na era socialista
+## Desenvolvimento econômico e padrões de vida na era socialista
 
 Em 1928 (depois que Stalin chegou ao poder como chefe do Partido Comunista), a Rússia Soviética instituiu uma economia totalmente planejada e o primeiro [Plano Quinquenal](https://en.wikipedia.org/wiki/Five-year_plans_of_the_Soviet_Union) foi aprovado. Isso resultou em rápido crescimento econômico. De acordo com Robert Allen:
 
@@ -266,7 +266,7 @@ A Guerra Fria foi outro fator que contribuiu para desacelerar as taxas de cresci
 
 Bem, a URSS alcançou resultados econômicos extremamente positivos até os anos 70, quando as políticas revisionistas e a Guerra Fria começaram a causar uma estagnação. Agora, vamos passar do desenvolvimento econômico e falar sobre os padrões de saúde da população soviética.
 
-# Saúde no período socialista
+## Saúde no período socialista
 
 As condições de saúde na Rússia czarista eram deploráveis; estava entre as nações menos saudáveis da Europa e provavelmente em todo o mundo. De acordo com o Professor Reiner Dinkel (Universidade de Munique):
 
@@ -286,7 +286,7 @@ Ele até observa que essas conquistas fizeram o socialismo parecer quase imbatí
 
 Entretanto, mesmo com as condições de saúde tenham começado a declinar após a introdução de políticas revisionistas em meados dos anos 60, as conquistas do sistema socialista na área de saúde permanecem incontestáveis.
 
-# Sobre Stalin
+## Sobre Stalin
 
 ![EpzHya0XMAMdNF7](https://user-images.githubusercontent.com/91556860/136443262-11b013de-b0dd-441e-82af-ae4214d47e51.jpg)
 
@@ -296,7 +296,7 @@ Stalin foi e ainda é uma grande figura atemporal que suscita em várias épocas
 
 Primeiramente, o que vem na sua cabeça quando falamos de Stalin? Imagino que você ao ler esse nome, logo relacionou a atrocidades, genocídios e milhares de mortes. Isso é vendido para o senso comum como a verdadeira imagem de Stalin. Escrevo este texto na expectativa de atingir aqueles que acreditam nessa dita “verdade” e que não se questionam sobre esse fato.
 
-## Culto a personalidade
+### Culto a personalidade
 
 “Stalinismo”, termo que vem sendo bastante usado, este cuja criação representa puro sadismo. Uma vez que coloca a Stalin a figura de um tirano e o coloca como criador de uma nova vertente do marxismo que o colocava como centro. O que, na verdade, não passa de mentira, pois Stalin em nenhum momento criou uma ideologia desconexa com o marxismo-leninismo. Já o “culto à personalidade” é algo ainda mais fantasioso, afinal, nem o próprio Stalin acreditava em tal conceito e tecia criticas a ele, o que é evidenciado em suas próprias palavras: 
 
@@ -304,7 +304,7 @@ Primeiramente, o que vem na sua cabeça quando falamos de Stalin? Imagino que vo
 
 >“Me falais de vossa ‘devoção’ a mim (…), mas eu vos aconselho descartar o “princípio” da devoção as pessoas. Esse não é o caminho bolchevique. Sede unicamente devoto da classe obreira, de seu Partido e seu Estado. Isso é uma coisa boa e útil. Mas não confundais com a devoção das pessoas, esta ninharia vã e inútil, é própria de intelectuais de pouca vontade.” [3]
 
-## Stalin ditador?
+### Stalin ditador?
 
 Para responder essa pergunta, vale ressaltar aqui, primeiramente, as vezes em que Stalin propôs aos membros do partido sua própria renuncia, o que demonstra o quão “ditador” ele era:
 
