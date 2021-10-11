@@ -27,7 +27,7 @@
    * [União Soviética](#a-união-soviética)
      * [Revolução, comunismo de guerra e NEP](#revolução-comunismo-de-guerra-e-nep)
      * [Desenvolvimento econômico e padrões de vida na era socialista](#desenvolvimento-econômico-e-padrões-de-vida-na-era-socialista)
-     * [Saúde no período socialista](#condições-de-saúde-no-período-socialista)
+     * [Saúde no período socialista](#saúde-no-período-socialista)
      * [Sobre Stalin](#sobre-stalin)
        * [Culto a personalidade](#culto-a-personalidade)
        * [Stalin ditador?](#stalin-ditador)
@@ -343,7 +343,7 @@ Durante a Segunda Guerra Mundial, onde foi o "auge" dos poderes de Stalin, foi n
 
 "Mas e os expurgos? Stalin matava todos que iam contra ele" Muitas pessoas acreditam cegamente que Stalin apenas perseguiu qualquer um que discordasse dele e, portanto, ele era um ditador de fato. Na verdade, os expurgos foram um meio necessário para eliminar os conspiradores fascistas do país (especialmente importante na esteira da Segunda Guerra Mundial), mas saíram de controle devido a forças fora do controle de Stalin, eles não tinham nada a ver com a manutenção de um controle individual no poder. Alguns bons historiadores sobre o assunto incluem J Arch Getty, Robert Thurston (ambos liberais) e Grover Furr.
 
-Gostaria de esclarecer, não nego que a União Soviética teve muitos erros, ela tava longe de ser perfeita, nem nego que Stalin e a posição de secretário-geral tiveram grande poder e influência sobre o partido, o governo e o país, mas chamar Stalin de ditador é totalmente errado, mesmo historiadores anticomunistas não acreditam mais nisso.
+Gostaria de esclarecer, não nego que a União Soviética teve erros, ela estava longe de ser perfeita, nem nego que Stalin e a posição de secretário-geral tiveram grande poder e influência sobre o partido, o governo e o país, mas chamar Stalin de ditador é totalmente errado, mesmo historiadores anticomunistas não acreditam mais nisso.
 
 A CIA também lançou um [paper](https://www.cia.gov/readingroom/docs/CIA-RDP80-00810A006000360009-0.pdf) com as considerações sobre a Era Stalin onde ela afirma que Stalin não era um líder antidemocrático e totalitário como circulava pelo Ocidente.
 
@@ -358,7 +358,7 @@ Referências/Fontes
 * [MARTENS, Ludo. Um Outro Olhar Sobre Stáline. S.l: Para A História do Socialismo, 2009](http://www.hist-socialismo.com/docs/UmOutroOlharStaline.pdf)
 * [Ciência Proletaria Livre](https://cienciaproletarialivre.com/2019/03/06/6-mitos-sobre-stalin-que-voce-provavelmente-ja-acreditou/)
 
-## A “grande fome” na Ucrânia (Holodomor)
+### A “grande fome” na Ucrânia (Holodomor)
 
 Os aparelhos ideológicos e intelectuais da burguesia estão em trabalho frenético para nos 100 anos da Revolução Russa difamar como podem a primeira experiência de poder operário consolidada da história — não sem contribuição fundamental, como sempre, de setores expressivos da esquerda. Um dos maiores mitos, isto é, uma construção historiográfica sem qualquer base factual e referencial em pesquisa histórica séria, mas que se sustenta de acordo com sua função política-ideológica na luta de classes, é a da grande fome ucraniana ou também conhecida como Holodomor. É afirmado que o Estado soviético através de uma política de fome planejada operou o extermínio de 6 ou 10 milhões (o número depende do grau de anticomunismo do autor) de ucranianos. Evidentemente, esse suposto episódio serve para equiparar o socialismo soviético com o nazismo: os ucranianos teriam sido o equivalente aos judeus no Holocausto. Vejamos com breves comentários como esse mito não tem qualquer base factual.
 
@@ -377,3 +377,18 @@ Agora se quiser se aprofundar mais no assunto, deixarei o link para uma página 
 * [Pensar a História](https://www.facebook.com/pensarahistoria/posts/148574650301971)
 
 Os liberais acusam os comunistas de estarem sendo revisionistas, assim como os neonazi são com o holocausto. Mas só é revisionismo quando você tá contestando uma interpretação majoritária da historiografia sobre um assunto. A tese que a fome na Ucrânia foi causada intencionalmente pra exterminar a própria população não é majoritária pelos historiadores, longe disso.
+
+### Pessoas inocentes sendo mortas por crimes pequenos
+
+Para desmascarar esses mitos de que qualquer pessoa que fizesse um crime, mesmo que pequeno, seria morta/fuzilada, usarei artigos do Código Penal da RSFSR 1926 (algumas edições de 1956).
+
+>Fulano roubou um pão e foi condenado a morte
+
+Será? se olharmos para o Código Penal, ele afirma:
+
+>Para combater os crimes mais graves que ameaçam as fundações do poder soviético e do sistema soviético, até que o Comitê Executivo Central da União da República Socialista Soviética cancele, nos casos especialmente indicados nos artigos deste Código, a execução é utilizada como medida excepcional para proteger o estado dos trabalhadores
+
+Artigo 21.º do Código Penal da RSFSR
+
+>Uma criança roubou alguma coisa, mas foi condenada à morte mesmo assim, porque Stalin e a URSS são vilões.
+
